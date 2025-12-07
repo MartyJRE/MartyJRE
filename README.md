@@ -68,6 +68,8 @@
 
 - [**loopback-connector-rest**](https://github.com/MartyJRE/loopback-connector-rest)
 - [**js-traverse**](https://github.com/MartyJRE/js-traverse)  
+- [**advent_of_code_2025**](https://github.com/MartyJRE/advent_of_code_2025)  
+  Advent of Code 2025 — implemented in Rust.
 - [**advent_of_code_2024**](https://github.com/MartyJRE/advent_of_code_2024)  
   Advent of Code 2024 — implemented in Kotlin.
 - [**advent_of_code_2023**](https://github.com/MartyJRE/advent_of_code_2023)  
